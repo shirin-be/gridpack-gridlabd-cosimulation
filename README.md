@@ -85,3 +85,9 @@ helics run --path=gpk-gld-cosim.json
 ```
 
 This command launches the GridPACK federate, the nine GridLAB-D feeder federates, and the controller federate according to the definitions in `gpk-gld-cosim.json`.
+
+## Citation and Use
+
+If this repository, the co-simulation testbed, source code, models, or supporting files contribute to your research, please cite the associated publication and acknowledge this repository.
+
+Citation details for the associated paper will be provided once the paper is published.
